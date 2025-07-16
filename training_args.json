@@ -1,0 +1,1 @@
+{"dataset_id": "autoprogrammer/Qwen2.5-Coder-7B-Instruct-codeguardplus", "model_id": "google/gemma-3n-e4b-it", "num_train_epochs": 5, "batch_size": 1, "per_train_dataset": 0.8, "per_test_dataset": 0.2}
